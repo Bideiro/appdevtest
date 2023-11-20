@@ -57,7 +57,7 @@ class _YOUAIState extends State<YOUAI> {
 
     List<UserInfo> users = [
       UserInfo(
-        name: "Ezra Sebastian",
+        name: "Ezra Sebastiansdadsada",
         role: "Math Tutor",
         description: "Sample description",
         imageUrl:
